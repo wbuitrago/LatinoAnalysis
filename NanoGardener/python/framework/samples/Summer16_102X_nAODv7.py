@@ -740,3 +740,6 @@ Samples['pseudoscalar2HDMa_ToWWToLNujj'] = {'nanoAOD' : '/MonoHToWWToLNujj_2HDMa
 
 #DarkHiggs semileptonic signal
 Samples['darkHiggs_ToWWToLNujj'] = {'nanoAOD' :'/MonoHToWWToLNujj_ZpBaryonic_TuneCP5_13TeV_madgraph-pythia8/RunIISummer16NanoAODv7-PUMoriond17_Nano02Apr2020_rp_102X_mcRun2_asymptotic_v8-v1/NANOAODSIM'}
+
+### EWK ZZ VBS 
+Samples['EWKZZjjTo4L'] = {'nanoAOD' : '/ZZJJTo4L_EWK_TuneCP5_13TeV-madgraph-pythia8/RunIIAutumn18NanoAODv7-Nano02Apr2020_102X_upgrade2018_realistic_v21-v1/NANOAODSIM'}

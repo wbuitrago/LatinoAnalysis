@@ -746,3 +746,6 @@ Samples['VBS_SSWW_cW_BSM'] = {'nanoAOD' :'/VBS_SSWW_cW_BSM_TuneCP5_13TeV-madgrap
 Samples['VBS_SSWW_cHW_INT'] = {'nanoAOD' :'/VBS_SSWW_cHW_INT_TuneCP5_13TeV-madgraph-pythia8/RunIIAutumn18NanoAODv7-Nano02Apr2020_102X_upgrade2018_realistic_v21-v1/NANOAODSIM'}
 Samples['VBS_SSWW_cHW_BSM'] = {'nanoAOD' :'/VBS_SSWW_cHW_BSM_TuneCP5_13TeV-madgraph-pythia8/RunIIAutumn18NanoAODv7-Nano02Apr2020_102X_upgrade2018_realistic_v21-v1/NANOAODSIM'}
 Samples['VBS_SSWW_cW_cHW'] = {'nanoAOD' :'/VBS_SSWW_cW_cHW_TuneCP5_13TeV-madgraph-pythia8/RunIIAutumn18NanoAODv7-Nano02Apr2020_102X_upgrade2018_realistic_v21-v1/NANOAODSIM'}
+
+######## EWK ZZ Samples for VBS SSWW
+Samples['EWKZZjjTo4L'] = {'nanoAOD' :'/ZZJJTo4L_EWK_TuneCP5_13TeV-madgraph-pythia8/RunIIAutumn18NanoAODv7-Nano02Apr2020_102X_upgrade2018_realistic_v21-v1/NANOAODSIM'}

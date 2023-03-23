@@ -1182,3 +1182,7 @@ samples['WpWmJJ_EWK_pol_TT'].extend( ['xsec=0.2464',     'kfact=1.000',   'ref=I
 
 # EFT dim8 OSWW  
 samples['WWjj_OS_EWK_dim8'].extend( ['xsec=0.2464',     'kfact=1.000',   'ref=I' ])
+
+
+# EWK ZZ VBS 
+samples['EWKZZjjTo4L'].extend( ['xsec=0.000441',     'kfact=1.000',   'ref=?' ])
